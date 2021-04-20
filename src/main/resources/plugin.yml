@@ -1,0 +1,9 @@
+name: Lemon
+version: ${project.version}
+main: com.murengezi.lemon.Lemon
+api-version: 1.16
+prefix: Lemon
+load: STARTUP
+authors: [ Tobias ]
+description: Survival Base Plugin
+website: https://murengezi.com/
