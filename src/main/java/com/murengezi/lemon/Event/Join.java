@@ -1,8 +1,11 @@
-package com.murengezi.lemon.Events;
+package com.murengezi.lemon.Event;
 
+import com.murengezi.lemon.Lemon;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerJoinEvent;
+
+import java.util.Map;
 
 /**
  * @author Tobias Sjöblom

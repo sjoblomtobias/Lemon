@@ -7,3 +7,8 @@ load: STARTUP
 authors: [ Tobias ]
 description: Survival Base Plugin
 website: https://murengezi.com/
+commands:
+  lemon:
+    description: Lemon plugin commands
+    usage: "/<command>"
+    permission: lemon.command

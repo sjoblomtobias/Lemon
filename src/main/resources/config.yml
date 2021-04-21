@@ -1,0 +1,10 @@
+Message-Format: "{player} \u00BB {message}"
+Motd:
+  - "Line 1"
+  - "Line 2"
+Name-Changer:
+  Murengezi: "Tobias"
+Ban-Time: 60
+Ban-Message: "Wow va värdelös men\ndu får en ny chans om {time}"
+Bans:
+  8a58c7b7-29ea-470f-9526-0c135c379a03: 20
